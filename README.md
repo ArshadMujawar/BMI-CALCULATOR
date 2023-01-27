@@ -1,9 +1,12 @@
-# BMI-CALCULATOR
 
-# 📱 Screenshots
+# 📱 Screenshots :
 
-![img1](https://user-images.githubusercontent.com/111220924/214331761-a935963c-aa03-4a24-817b-3e575c1af8d6.jpg)     ![img2](https://user-images.githubusercontent.com/111220924/214331814-3fda8590-6140-4eb4-a0cc-459cb96d11cd.jpg)  
+<br>
 
-![img3](https://user-images.githubusercontent.com/111220924/214331832-e6e6768a-7d31-4fff-a48a-e8a9996cfd99.jpg)     ![img4](https://user-images.githubusercontent.com/111220924/214331874-abbd7b60-255b-4b5d-b3c1-bad08a3968e0.jpg)
+<img src="https://user-images.githubusercontent.com/111220924/215119913-c76a28de-1641-434a-80b5-bb31586da083.jpg" width="30%"> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/111220924/215119922-5f01fc72-bb97-43fd-937b-e2cff6e69506.jpg" width="30%"> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/111220924/215119932-64b0dee6-966b-403d-b810-faf735ecb8f8.jpg" width="30%">
 
-![img5](https://user-images.githubusercontent.com/111220924/214331894-9edce0b9-9be4-4064-bd46-e124f7964979.jpg)
+<br>
+
+<img src="https://user-images.githubusercontent.com/111220924/215119943-4a1bd9cf-b7df-4227-b6c4-e28b9970c57b.jpg" width="30%"> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/111220924/215119947-4e76779f-7f16-4cb6-bc95-bacde59120d5.jpg" width="30%">
+
+<br>
